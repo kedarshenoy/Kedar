@@ -1,0 +1,85 @@
+.profabout {
+    width: 100%;
+    border-radius: 126px 110px 0px 122px;
+    border: 10px solid white;
+    /* margin-left: 20%; */
+  }
+  .leftmainabout {
+    width: 25%;
+    margin-top: 40px;
+    margin-left: 8px;
+
+    /* background-color: antiquewhite; */
+    text-align: center;
+    display: inline-block;
+  }
+  .rightmainabout {
+    margin-left: 8px;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+  }
+  .firstabout {
+    display: flex;
+    margin-bottom: 50px;
+  }
+
+
+
+
+
+  
+#nameabout{
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color:burlywood;
+}
+.rightmainabout{
+    font-size: 1.6vw;
+    /* 20px */
+}
+.sidehead{
+    margin-top: 20px;
+    font-size: 1.8vw;
+}
+
+.sidepoints{
+    margin-left: 50px;
+    
+}
+.sidemainpoints{
+    color: greenyellow;
+    font-weight:normal;
+
+}
+
+.compname{
+    color: rgb(244, 116, 137);
+    font-weight: 700;
+}
+
+.points{
+    margin-left: 100px;
+    color: orange;
+    line-height: 1.5;
+}
+
+.carrer{
+    margin-left: 50px;
+    font-size: 2vw;
+    color: red;
+}
+
+/* #element{ */
+    /* font-size: 25px; */
+    /* font-weight: bold; */
+/* } */
+
+.langdiv{
+    display: inline-block;
+}
+
+.x{
+    visibility: hidden;
+}

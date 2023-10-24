@@ -1,0 +1,62 @@
+/* firstcertificate */
+
+.firstcertificate{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+
+
+  .certiname{
+    /* display: inline-block; */
+      padding-left: 50px;
+      /* padding-right: 50px; */
+      text-align: center;
+      
+  }
+
+
+  .certidesc{
+   /* width: 60%; */
+   text-align: justify;
+   /* padding-right: 50px;  */
+   /* margin-left: 50px; */
+   font-size: 2.5vmin;
+   color: rgb(161, 155, 155);
+  }
+
+  .titler{
+    text-align: center;
+    font-size: 3vmin;
+    color: greenyellow;
+  }
+
+  .titlel{
+    text-align: center;
+    font-size: 3vmin;
+    color: orangered;
+  }
+
+  .headingcertif{
+    text-align: center;
+    font-size: 4vmax;
+    color: antiquewhite;
+    margin-top: 20px;
+  }
+
+  .ruler{
+    color: antiquewhite;
+    width: 80%;
+    border: 1px solid antiquewhite;
+    box-shadow: 0px 0px 5px rgb(234, 60, 11);
+
+
+    text-align: center;
+  }
+
+  .rulerdiv{
+    display: flex;
+    justify-content: center;
+  }

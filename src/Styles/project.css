@@ -1,0 +1,64 @@
+.projectmainheading{
+    text-align: center;
+    font-size: 4vmax;
+    color: antiquewhite;
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
+  }
+
+  .firstproject{
+    text-align: center;
+  }
+
+  .prtojectheading{
+    font-size: 3vh;
+    color: orangered;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  .prtojectheading-title{
+    font-size: 18px;
+    color: orangered;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  .link{
+    text-decoration: none;
+    color: inherit;
+  }
+  .prtojectdesc{
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-right: 100px;
+    font-size: 2.5vmin;
+    color: rgb(169, 164, 164);
+    text-align: justify;
+    
+  }
+
+  .text{
+    color: rgb(234, 33, 67);
+  }
+
+  .sidepointsproj{
+    color: antiquewhite;
+  }
+
+
+  .valuesproj{
+color: greenyellow;
+  }
+
+  .video{
+    width:fit-content;
+    max-width: 50vw;
+    border-radius: 05px;
+    
+  }
+
+  .sidepointsprojm{
+    color: rgb(255, 185, 93);
+    font-weight:700 ;
+    margin-top: 5px;
+  }
