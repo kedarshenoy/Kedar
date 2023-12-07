@@ -155,7 +155,7 @@ const About=()=>{
         <div className="langdiv">
         <div className="sidehead"><b>Projects:</b></div>
         <Typed
-                strings={[`Leetcode <br/> Zomato<br/> Portfolio<br/>`
+                strings={[`Leetcode <br/> Zomato<br/> Kedar's Collections <br/>Portfolio<br/>`
                   ]}
                     typeSpeed={30}
                     backSpeed={50}

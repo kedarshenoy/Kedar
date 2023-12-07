@@ -92,6 +92,58 @@ const Projects=()=>{
     </section>
 
 
+    {/* ////////////////////////////////////////////////////////////////////////////////////////////////// */}
+    <section className="firstproject" > {/*  style="margin-bottom: 100px;"*/}
+      <div className="prtojectheading" ><a className="link"href="https://github.com/kedarshenoy/coin">Kedar's Collection ↝</a></div>
+      {/* <iframe src="./emp/tryhome.html" width="70%" height="60%"></iframe> */}
+      <video className='video' src={require('../Assets/coin.mp4')}  autoPlay muted playsInline loop></video>
+
+      <div className="prtojectdesc">
+      Introducing CoinTracker, your comprehensive coin collection companion built on the powerful MERN stack (MongoDB, Express.js, React, Node.js). Seamlessly manage and showcase your prized coin collection with this user-friendly app designed for both novice enthusiasts and seasoned collectors.
+        <div className="sidepointsprojm">Technologies Used:</div>
+        <div className="sidepointsproj">
+          Front-End:
+          <span className="valuesproj"> HTML, CSS, and React.js for crafting a responsive and visually engaging user interface.</span>
+        </div>
+        <div className="sidepointsproj">
+          Back-End: <span className="valuesproj"> Node.js and Express.js, forming a robust server-side foundation for seamless logic and API development.</span>
+        </div>
+        
+        <div className="sidepointsproj">
+          Database: <span className="valuesproj">MongoDB, ensuring secure data storage and efficient management of user profiles and coin collection details.</span>
+        </div>
+
+
+
+        <div className="sidepointsprojm">Key Features:</div>
+        <div className="sidepointsproj">
+        Coin Collection Management:
+          <span className="valuesproj"> Empowered by MongoDB, users can efficiently manage and categorize their coin collections, providing a comprehensive overview of their numismatic treasures.</span>
+        </div>
+        <div className="sidepointsproj">
+        User-Friendly Interface:  <span className="valuesproj">Crafted an intuitive frontend using HTML, CSS, and React.js, guaranteeing an immersive and smooth user experience across various devices.</span>
+        </div>
+
+
+        <div className="sidepointsprojm">How It Works::</div>
+        <div className="sidepointsproj">
+        Coin Entry:
+          <span className="valuesproj">Users input details about their coins, including type, year, mint, and condition, using the user-friendly web interface.</span>
+        </div>
+        <div className="sidepointsproj">
+        Categorization:  <span className="valuesproj"> The application processes this data and categorizes coins based on various criteria, allowing users to organize their collection effortlessly.</span>
+        </div>
+        <div className="sidepointsproj">
+        Visual Showcase:  <span className="valuesproj">Users can view a visually appealing display of their coin collection on the website, making it easy to appreciate and share their treasures with others.</span>
+        </div>
+        <div className="sidepointsproj">
+      <span className="valuesproj">Whether you're a seasoned collector or a budding enthusiast, Kedar's Collection app offers an efficient and visually pleasing way to manage and showcase your unique coin treasures. Explore the world of numismatics with ease!</span>
+        </div>
+      </div>
+      
+    </section>
+
+
 
     <section className="firstproject" > {/*  style="margin-bottom: 100px;"*/}
       <div className="prtojectheading" ><a className="link"href="https://github.com/kedarshenoy/DiabetesPrediction-">Diabetes Detection ↝</a></div>
